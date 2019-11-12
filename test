@@ -1,1 +1,2 @@
-
+## Check out this data set here: http://pages.stern.nyu.edu/~pschnabl/data/data_callreport.htm
+## it has a data set from about 1983 to 2013.  It is a .dta file, but we can easily read this into R or python.  
